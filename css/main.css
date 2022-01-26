@@ -1,0 +1,21 @@
+body{
+    background-image: radial-gradient(circle, #949697, #747878, #575b5a, #3c3f3c, #242521);
+    align-items: center;
+}
+.image{
+     margin-left: 13%;
+    margin-top: 13%;
+}
+.place{
+    /* From https://css.glass */
+    width: 300px;
+    height: 300px;
+background: rgba(169, 165, 165, 0.58);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(9.2px);
+-webkit-backdrop-filter: blur(9.2px);
+border: 1px solid rgba(169, 165, 165, 0.3);
+margin-left: 35%;
+    margin-top: 70%;
+}
